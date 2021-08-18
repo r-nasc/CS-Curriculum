@@ -1,6 +1,8 @@
-# <center>Self-Taught Computer Science</center>
-After years practicing different aspects of IT as a hobbyist, I've commited to studying and building a proper/well-rounded curriculum by teaching myself CS inbetween work and my Bsc. in Mech.Eng.<br>
-The repo is a place where I will log my learning process in an organized way, both for future reference and in the hopes that it can be useful to others.<br>
+  # <p align="center">Self-Taught Computer Science</p>
+After years practicing different aspects of IT as a hobbyist, I've commited to studying and building a proper/well-rounded curriculum by teaching myself CS inbetween work and my Bsc. in Mech.Eng.
+
+The repo is a place where I will log my learning process in an organized way, both for future reference and in the hopes that it can be useful to others.
+
 
 ## Fundamentals
 
