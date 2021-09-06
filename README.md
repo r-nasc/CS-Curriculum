@@ -1,5 +1,5 @@
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 39h</b></p> 
+  <p align="center"><b>Time Invested So Far: 45h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -22,6 +22,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | ------ | ------ | ------------ | :-------: | :-------: |
 |![In Progress](https://image.flaticon.com/icons/png/24/189/189792.png)| Course | [Harvard's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|  |16-Aug-2021||
+|| Course | [MIT's The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|  |||
+
 
 ### Math
 >*Lower Priority since I've already studied this in Mech. Eng.*
@@ -44,7 +46,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | ------ | ------ | ------------ | :-------: | :-------: |
-|![In Progress](https://image.flaticon.com/icons/png/24/189/189792.png)| Book| [Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021||
+|![In Progress](https://image.flaticon.com/icons/png/24/189/189792.png)| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021||
 || Course| UBC's How to Code [Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [Complex Data](https://www.edx.org/course/how-to-code-complex-data)|  |||
 || Course| UW's Programming Languages [A](https://www.coursera.org/learn/programming-languages), [B](https://www.coursera.org/learn/programming-languages-part-b) & [C](https://www.coursera.org/learn/programming-languages-part-c)|  |||
 
