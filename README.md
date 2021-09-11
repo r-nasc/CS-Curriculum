@@ -1,5 +1,5 @@
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 45h</b></p> 
+  <p align="center"><b>Time Invested So Far: 51h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
