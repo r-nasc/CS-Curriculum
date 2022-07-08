@@ -21,7 +21,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Intro CS
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | ------ | ------ | ------------ | :-------: | :-------: |
-|![In Progress](https://image.flaticon.com/icons/png/24/189/189792.png)| Course | [Harvard's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|  |16-Aug-2021||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | [Harvard's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|  |16-Aug-2021||
 || Course | [MIT's The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|  |||
 
 
@@ -40,14 +40,14 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Algorithms
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | ------ | ------ | ------------ | :-------: | :-------: |
-|![Complete](https://image.flaticon.com/icons/png/24/190/190411.png)| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
 || Course| [Stanford's Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |||
 
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | ------ | ------ | ------------ | :-------: | :-------: |
-|![In Progress](https://image.flaticon.com/icons/png/24/189/189792.png)| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021||
-|| Course| UBC's How to Code [Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [Complex Data](https://www.edx.org/course/how-to-code-complex-data)|  |||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021|20-Nov-2021|
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course| UBC's How to Code [Simple Data](https://www.edx.org/course/how-to-code-simple-data) & [Complex Data](https://www.edx.org/course/how-to-code-complex-data)|  |||
 || Course| UW's Programming Languages [A](https://www.coursera.org/learn/programming-languages), [B](https://www.coursera.org/learn/programming-languages-part-b) & [C](https://www.coursera.org/learn/programming-languages-part-c)|  |||
 
 ### Systems
@@ -60,3 +60,4 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course | [UoMass's Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) || ||
 
 <p align="center">[WIP]</p>
+
