@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 97h</b></p> 
+  <p align="center"><b>Time Invested So Far: 107h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -53,8 +53,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course| UBC's [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data)|  |||
 |<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages A](https://www.coursera.org/learn/programming-languages)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|28-Jul-2022|01-Sep-2022|
 |<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|01-Sep-2022|13-Sep-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/> | Course| UW's [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|13-Sep-2022||
-|| Course| UAlberta's [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|  |||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/> | Course| UW's [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|13-Sep-2022|05-Oct-2022|
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/> | Course| UAlberta's [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|  |05-Oct-2022||
 || Course| UAlberta's [Design Patterns](https://www.coursera.org/learn/design-patterns)|  |||
 || Course| UAlberta's [Software Architecture](https://www.coursera.org/learn/software-architecture)|  |||
 
