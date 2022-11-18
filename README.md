@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 135h</b></p> 
+  <p align="center"><b>Time Invested So Far: 154h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -24,7 +24,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
 |<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course |Harvard's  [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|16-Aug-2021|16-Oct-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | MIT's [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|08-Nov-2022||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course | MIT's [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|08-Nov-2022|18-Nov-2022|
 
 
 ### Math
@@ -33,7 +33,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
 || Course| MIT's [Calculus I A](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about), [B](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) & [C](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)|||
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course|MIT's [Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)|08-Nov-2022||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course|MIT's [Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)|08-Nov-2022|08-Nov-2022|
 
 
 ## Core
@@ -61,7 +61,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Systems
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1) & [Pt2](https://www.coursera.org/learn/nand2tetris2)|| ||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)||18-Nov-2022||
+|| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|| ||
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
 || Course | UW–Madison's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) || ||
 || Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
