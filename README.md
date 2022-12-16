@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 157h</b></p> 
+  <p align="center"><b>Time Invested So Far: 188h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -28,7 +28,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 
 ### Math
->*Lower Priority since I've already studied this in Mech. Eng.*
+>*Lower priority since I've already studied this in Mech. Eng.*
 >
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
@@ -37,7 +37,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 
 ## Core
->This is where most of my knowledge gaps are, mainly due to lack of formal education. A solid understanding of the following areas is a MUST.
+>This is where most of my knowledge gaps are, mainly due to lack of formal education. 
 
 ### Algorithms
 | Progress | Type | Item | Project(s) | Start Date | End Date |
@@ -61,8 +61,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Systems
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)||18-Nov-2022||
-|| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|| ||
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/nand2tetris)|18-Nov-2022|16-Dec-2022|
+|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/nand2tetris)|16-Dec-2022||
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
 || Course | UW–Madison's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) || ||
 || Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
