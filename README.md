@@ -23,8 +23,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Intro CS
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course |Harvard's  [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|16-Aug-2021|16-Oct-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course | MIT's [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|08-Nov-2022|18-Nov-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |Harvard's  [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|16-Aug-2021|16-Oct-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | MIT's [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|08-Nov-2022|18-Nov-2022|
 
 
 ### Math
@@ -33,7 +33,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
 || Course| MIT's [Calculus I A](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about), [B](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) & [C](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)|||
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course|MIT's [Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)|08-Nov-2022|08-Nov-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|MIT's [Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)|08-Nov-2022|08-Nov-2022|
 
 
 ## Core
@@ -42,32 +42,32 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Algorithms
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
 || Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |||
 
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021|20-Nov-2021|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UBC's [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data)|  |07-Jul-2022|28-Jul-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021|20-Nov-2021|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course| UBC's [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data)|  |07-Jul-2022|28-Jul-2022|
 || Course| UBC's [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data)|  |||
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages A](https://www.coursera.org/learn/programming-languages)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|28-Jul-2022|01-Sep-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|01-Sep-2022|13-Sep-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/> | Course| UW's [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/programming-languages)|13-Sep-2022|05-Oct-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/> | Course| UAlberta's [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|  |05-Oct-2022|16-Oct-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UAlberta's [Design Patterns](https://www.coursera.org/learn/design-patterns)|  |16-Oct-2022|26-Oct-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course| UAlberta's [Software Architecture](https://www.coursera.org/learn/software-architecture)|  |02-Nov-2022|08-Nov-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages A](https://www.coursera.org/learn/programming-languages)|[Link](homework/programming-languages)|28-Jul-2022|01-Sep-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course| UW's [Programming Languages B](https://www.coursera.org/learn/programming-languages-part-b)|[Link](homework/programming-languages)|01-Sep-2022|13-Sep-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/> | Course| UW's [Programming Languages C](https://www.coursera.org/learn/programming-languages-part-c)|[Link](homework/programming-languages)|13-Sep-2022|05-Oct-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/> | Course| UAlberta's [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)|  |05-Oct-2022|16-Oct-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course| UAlberta's [Design Patterns](https://www.coursera.org/learn/design-patterns)|  |16-Oct-2022|26-Oct-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course| UAlberta's [Software Architecture](https://www.coursera.org/learn/software-architecture)|  |02-Nov-2022|08-Nov-2022|
 || Course|[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)|  |||
 
 ### Systems
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/nand2tetris)|18-Nov-2022|16-Dec-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/nand2tetris)|16-Dec-2022|03-Jan-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/modern-c)|04-Jan-2022|13-Jan-2022|
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/ostep)|13-Jan-2022||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)|[Link](homework/nand2tetris)|18-Nov-2022|16-Dec-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|[Link](homework/nand2tetris)|16-Dec-2022|03-Jan-2022|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](homework/modern-c)|04-Jan-2022|13-Jan-2022|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2022||
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
-|<img src="https://github.com/r-nasc/CS-Curriculum/blob/main/Resources/in-progress.png" width="28" title="In Progress"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](https://github.com/r-nasc/CS-Curriculum/tree/main/homework/ostep)|13-Jan-2022||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2022||
 || Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
 || Course |UMass's [ Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) || ||
 
