@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 228h</b></p> 
+  <p align="center"><b>Time Invested So Far: 258h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -69,6 +69,6 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
 |<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2022||
 || Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
-|| Course |UMass's [ Computer Networking: A Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) || ||
+|| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) || ||
 
 <p align="center">[WIP]</p>
