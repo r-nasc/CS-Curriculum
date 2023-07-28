@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 316h</b></p> 
+  <p align="center"><b>Time Invested So Far: 345h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -15,7 +15,8 @@ The repo is a place where I will log my learning process in an organized way, bo
   - [ ] [Algorithms](#algorithms)
   - [X] [Programming](#programming)
   - [ ] [Systems](#systems)
-
+- [ ] [Specializations](#specializations)
+  - [ ] [Languages](#languages)
 
 ## Fundamentals
 >Although nothing in this section was new to me, I decided some topics were worth revisiting. (Admittedly, was also a bit curious why these courses are so famous)
@@ -64,13 +65,17 @@ The repo is a place where I will log my learning process in an organized way, bo
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)|[Link](homework/nand2tetris)|18-Nov-2022|16-Dec-2022|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|[Link](homework/nand2tetris)|16-Dec-2022|03-Jan-2023|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2023||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 || Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
-|| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) || ||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ||28-Jul-2023||
 
+## Specializations
 ### Languages
+>These are languages with features I needed deeper understanding for work, courses or projects.
+>My choices were based on curated sources from experts on the field which were modern enough at the time.
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](homework/modern-c)|04-Jan-2023|13-Jan-2023|
