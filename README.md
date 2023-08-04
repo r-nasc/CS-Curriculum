@@ -1,6 +1,6 @@
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 345h</b></p> 
+  <p align="center"><b>Time Invested So Far: 351h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -68,8 +68,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
-|| Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) || ||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) ||28-Jul-2023||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) ||03-Aug-2023||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |[Link](homework/comp-networking)|28-Jul-2023||
 
 ## Specializations
 ### Languages
