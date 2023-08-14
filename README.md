@@ -1,6 +1,7 @@
 
+
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 351h</b></p> 
+  <p align="center"><b>Time Invested So Far: 378h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -44,7 +45,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
-|| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023||
 
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
@@ -68,8 +69,17 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) ||03-Aug-2023||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |[Link](homework/comp-networking)|28-Jul-2023||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) ||03-Aug-2023|14-Aug-2023|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |[Link](homework/comp-networking)|28-Jul-2023|14-Aug-2023|
+
+### Security
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |||
+|| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |||
+|| Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |||
+|| Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |||
+
 
 ## Specializations
 ### Languages
