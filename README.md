@@ -46,6 +46,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
 |<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Princeton's  [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)|[Link](homework/algorithms1)|02-Oct-2023||
 
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
