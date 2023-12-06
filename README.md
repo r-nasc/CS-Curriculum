@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 394h</b></p> 
+  <p align="center"><b>Time Invested So Far: 521h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -39,14 +39,15 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 
 ## Core
->This is where most of my knowledge gaps are, mainly due to lack of formal education. 
+>This is where most of my knowledge gaps were, mainly due to lack of formal education. 
 
 ### Algorithms
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Princeton's  [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)|[Link](homework/algorithms1)|02-Oct-2023||
+|<img src="Resources/dropped.png" width="28" title="In Progress"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Princeton's  [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)|[Link](homework/algorithms1)|02-Oct-2023|05-Dec-2023|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Princeton's  [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)|[Link](homework/algorithms2)|30-Nov-2023||
 
 ### Programming
 | Progress | Type | Item | Project(s) | Start Date | End Date |
@@ -76,7 +77,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Security
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023||
 || Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |||
 || Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |||
 || Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |||
@@ -91,6 +92,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](homework/modern-c)|04-Jan-2023|13-Jan-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Learning Path| Pluralsight [Core Python](https://www.pluralsight.com/paths/core-python) ||13-May-2023|28-May-2023|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Intro to Web Applications Using ASP .Net Core MVC](https://link.springer.com/book/10.1007/978-3-031-30626-6) | |14-Nov-2023|04-Dec-2023|
 
 
 <p align="center">[WIP]</p>
