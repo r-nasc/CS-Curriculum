@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 521h</b></p> 
+  <p align="center"><b>Time Invested So Far: 524h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -9,13 +9,14 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 ## Contents
 
-- [ ] [Fundamentals](#fundamentals)
-  - [ ] [Intro CS](#intro-cs)
+- [X] [Fundamentals](#fundamentals)
+  - [X] [Intro CS](#intro-cs)
   - [X] [Math](#math)
 - [ ] [Core](#core)
   - [ ] [Algorithms](#algorithms)
   - [X] [Programming](#programming)
-  - [ ] [Systems](#systems)
+  - [X] [Systems](#systems)
+  - [ ] [Security](#security)
 - [ ] [Specializations](#specializations)
   - [ ] [Languages](#languages)
 
@@ -30,7 +31,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 
 ### Math
->*Lower priority since I've already studied this in Mech. Eng.*
+>Lower priority since I've already studied this at university
 >
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
@@ -77,8 +78,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 ### Security
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023||
-|| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023|10-Dec-2023|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |10-Dec-2023||
 || Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |||
 || Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |||
 
