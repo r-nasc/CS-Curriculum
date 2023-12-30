@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 524h</b></p> 
+  <p align="center"><b>Time Invested So Far: 538h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -17,6 +17,7 @@ The repo is a place where I will log my learning process in an organized way, bo
   - [X] [Programming](#programming)
   - [X] [Systems](#systems)
   - [ ] [Security](#security)
+  - [ ] [Applications](#applications)
 - [ ] [Specializations](#specializations)
   - [ ] [Languages](#languages)
 
@@ -79,10 +80,19 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023|10-Dec-2023|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |10-Dec-2023||
-|| Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |10-Dec-2023|22-Dec-2023|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |22-Dec-2023||
 || Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |||
 
+### Applications
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+| | Course|Stanford's [DBs: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)|  |||
+| | Course|Stanford's [DBs: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)|  |||
+| | Course|Stanford's [DBs: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)|  |||
+| | Course|Stanford's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|  |||
+| | Course|UCSanDiego's [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)|  |||
+| | Course|IBM's [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)|  |||
 
 ## Specializations
 ### Languages
