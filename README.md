@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 556h</b></p> 
+  <p align="center"><b>Time Invested So Far: 568h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -16,7 +16,7 @@ The repo is a place where I will log my learning process in an organized way, bo
   - [X] [Algorithms](#algorithms)
   - [X] [Programming](#programming)
   - [X] [Systems](#systems)
-  - [ ] [Security](#security)
+  - [X] [Security](#security)
   - [ ] [Applications](#applications)
 - [ ] [Specializations](#specializations)
   - [ ] [Languages](#languages)
@@ -82,12 +82,12 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023|10-Dec-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)|  |10-Dec-2023|22-Dec-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)|  |22-Dec-2023|07-Jan-2024|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |07-Jan-2024||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |07-Jan-2024|16-Jan-2024|
 
 ### Applications
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-| | Course|Stanford's [DBs: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)|  |||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's [DBs: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)|  |16-Jan-2024||
 | | Course|Stanford's [DBs: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)|  |||
 | | Course|Stanford's [DBs: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)|  |||
 | | Course|Stanford's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|  |||
