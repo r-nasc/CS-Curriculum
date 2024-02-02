@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 612h</b></p> 
+  <p align="center"><b>Time Invested So Far: 620h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -18,6 +18,11 @@ The repo is a place where I will log my learning process in an organized way, bo
   - [X] [Systems](#systems)
   - [X] [Security](#security)
   - [ ] [Applications](#applications)
+- [ ] [Advanced](#advanced)
+  - [ ] [Programming](#advanced-programming)
+  - [ ] [Systems](#advanced-systems)
+  - [ ] [Security](#advanced-security)
+  - [ ] [Theory](#advanced-theory)
 - [ ] [Specializations](#specializations)
   - [ ] [Languages](#languages)
 
@@ -90,11 +95,45 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)|  |16-Jan-2024|20-Jan-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Relational Databases and SQL](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql)|  |20-Jan-2024|23-Jan-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)|  |23-Jan-2024|24-Jan-2024|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's [DBs: Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)|  |25-Jan-2024| |
-| | Course|Stanford's [DBs: OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion)|  | | |
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)|  |25-Jan-2024|01-Feb-2024|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's [DBs: OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion)|  |01-Feb-2024| |
 | | Course|Stanford's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|  |||
 | | Course|UCSanDiego's [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)|  |||
 | | Course|IBM's [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)|  |||
+
+## Advanced
+### Advanced Programming
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|| Course|EPFL's [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)|  |||
+|| Course|Stanfords's [Compilers](https://www.edx.org/course/compilers)|  |||
+|| Course|UPenn's [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)|  |||
+|| Course|[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)|  |||
+|| Course|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)|  |||
+|| Course|[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)|  |||
+
+### Advanced Systems
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|| Course|MIT's [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) |  |||
+|| Course|MIT's [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)|  |||
+|| Course|MIT's [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) |  |||
+
+### Advanced Security
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|| Course|KULeuven's [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) |  |||
+|| Course|UCI's [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) |  |||
+|| Course|INFOSEC's [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) |  |||
+|| Course|Linux Foundation's [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) |  |||
+|| Course|Linux Foundation's [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) |  |||
+|| Course|Linux Foundation's [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) |  |||
+
+### Advanced Theory
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|| Course|Stanfords's [Game Theory](https://www.coursera.org/learn/game-theory-1) |  |||
+
 
 ## Specializations
 ### Languages
