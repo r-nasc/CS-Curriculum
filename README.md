@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 628h</b></p> 
+  <p align="center"><b>Time Invested So Far: 656h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -52,7 +52,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
-|<img src="Resources/dropped.png" width="28" title="Dropped"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023||
+|<img src="Resources/dropped.png" width="28" title="Dropped"/>| Course|Stanford's  [Algorithms Specialization](https://www.coursera.org/specializations/algorithms)|  |15-Aug-2023|02-Oct-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Princeton's  [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)|[Link](homework/algorithms1)|02-Oct-2023|05-Dec-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Princeton's  [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)|[Link](homework/algorithms2)|30-Nov-2023|14-Jan-2024|
 
@@ -97,9 +97,9 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Semistructured Data](https://www.edx.org/learn/relational-databases/stanford-university-databases-semistructured-data)|  |23-Jan-2024|24-Jan-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Advanced Topics in SQL](https://www.edx.org/learn/sql/stanford-university-databases-advanced-topics-in-sql)|  |25-Jan-2024|01-Feb-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: OLAP and Recursion](https://www.edx.org/learn/databases/stanford-university-databases-olap-and-recursion)|  |01-Feb-2024|06-Feb-2024|
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|Stanford's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|  |04-Feb-2024||
-| | Course|UCSanDiego's [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)|  |||
-| | Course|IBM's [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)|  |||
+|<img src="Resources/dropped.png" width="28" title="Dropped"/>| Course|Stanford's [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)|  |04-Feb-2024|12-Feb-2024|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|UCSanDiego's [Computer Graphics](https://www.edx.org/learn/computer-graphics/the-university-of-california-san-diego-computer-graphics)|[Link](homework/computer-graphics)|12-Feb-2024|06-Mar-2024|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|IBM's [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)|  |06-Mar-2024||
 
 ## Advanced
 ### Advanced Programming
