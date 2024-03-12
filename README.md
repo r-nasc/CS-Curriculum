@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 664h</b></p> 
+  <p align="center"><b>Time Invested So Far: 669h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -12,19 +12,19 @@ The repo is a place where I will log my learning process in an organized way, bo
 - [X] [Fundamentals](#fundamentals)
   - [X] [Intro CS](#intro-cs)
   - [X] [Math](#math)
-- [ ] [Core](#core)
+- [X] [Core](#core)
   - [X] [Algorithms](#algorithms)
   - [X] [Programming](#programming)
   - [X] [Systems](#systems)
   - [X] [Security](#security)
-  - [ ] [Applications](#applications)
+  - [X] [Applications](#applications)
 - [ ] [Advanced](#advanced)
   - [ ] [Programming](#advanced-programming)
   - [ ] [Systems](#advanced-systems)
   - [ ] [Security](#advanced-security)
   - [ ] [Theory](#advanced-theory)
-- [ ] [Specializations](#specializations)
-  - [ ] [Languages](#languages)
+- [X] [Specializations](#specializations)
+  - [X] [Languages](#languages)
 
 ## Fundamentals
 >Although nothing in this section was new to me, I decided some topics were worth revisiting. (Admittedly, was also a bit curious why these courses are so famous)
@@ -109,8 +109,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|Stanfords's [Compilers](https://www.edx.org/course/compilers)|  |||
 || Course|UPenn's [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)|  |||
 || Course|[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)|  |||
-|| Course|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)|  |||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)|  |08-Mar-2024||
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)|  |||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)|  |08-Mar-2024|11-Mar-2024|
 
 ### Advanced Systems
 | Progress | Type | Item | Project(s) | Start Date | End Date |
