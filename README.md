@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 669h</b></p> 
+  <p align="center"><b>Time Invested So Far: 675h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -109,7 +109,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|Stanfords's [Compilers](https://www.edx.org/course/compilers)|  |||
 || Course|UPenn's [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)|  |||
 || Course|[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)|  |||
-|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course|[Software Debugging](https://www.udacity.com/course/software-debugging--cs259)|  |||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)|  |11-Mar-2024|19-Mar-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)|  |08-Mar-2024|11-Mar-2024|
 
 ### Advanced Systems
@@ -145,6 +145,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](homework/modern-c)|04-Jan-2023|13-Jan-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Learning Path| Pluralsight [Core Python](https://www.pluralsight.com/paths/core-python) ||13-May-2023|28-May-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Intro to Web Applications Using ASP .Net Core MVC](https://link.springer.com/book/10.1007/978-3-031-30626-6) | |14-Nov-2023|04-Dec-2023|
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Book| [C# 12 in a Nutshell](https://www.oreilly.com/library/view/c-12-in/9781098147433/) | |18-Mar-2024||
 
 
 <p align="center">[WIP]</p>
