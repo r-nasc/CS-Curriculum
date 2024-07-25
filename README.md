@@ -1,7 +1,7 @@
 
 
   # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 710h</b></p> 
+  <p align="center"><b>Time Invested So Far: 718h</b></p> 
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -108,7 +108,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)|  |11-Mar-2024|19-Mar-2024|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)|  |08-Mar-2024|11-Mar-2024|
-|| Course|EPFL's [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)|  |06-Jul-2024||
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|EPFL's [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming)|  |06-Jul-2024|20-Jul-2024|
 || Course|Stanfords's [Compilers](https://www.edx.org/course/compilers)|  |||
 || Course|UPenn's [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)|  |||
 || Course|[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)|  |||
@@ -153,6 +153,6 @@ The repo is a place where I will log my learning process in an organized way, bo
 
 | Progress | Type | Certification | Code | Exam Date | Expiry Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
-|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Azure | [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | AZ 900 |05-Jul-2024|N/A|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Azure | Microsoft Certified: [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | AZ 900 |05-Jul-2024|N/A|
 
 <p align="center">[WIP]</p>
