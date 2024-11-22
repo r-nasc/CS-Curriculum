@@ -1,7 +1,7 @@
 
+# <p align="center">Self-Taught Computer Science</p>
 
-  # <p align="center">Self-Taught Computer Science</p>
-  <p align="center"><b>Time Invested So Far: 718h</b></p> 
+  <p align="center"><b>Time Invested So Far: 748h</b></p>
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -24,20 +24,23 @@ The repo is a place where I will log my learning process in an organized way, bo
   - [ ] [Security](#advanced-security)
   - [ ] [Theory](#advanced-theory)
 - [X] [Specializations](#specializations)
+  - [X] [Theory](#theory)
   - [X] [Languages](#languages)
   - [X] [Certifications](#certifications)
 
 ## Fundamentals
+>
 >Although nothing in this section was new to me, I decided some topics were worth revisiting. (Admittedly, was also a bit curious why these courses are so famous)
 
 ### Intro CS
+
 | Progress | Type | Item | Start Date | End Date |
 | :------: | :------: | ------ | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |Harvard's  [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)|16-Aug-2021|16-Oct-2022|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | MIT's [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)|08-Nov-2022|18-Nov-2022|
 
-
 ### Math
+>
 >Lower priority since I've already studied this at university
 >
 | Progress | Type | Item | Start Date | End Date |
@@ -45,11 +48,12 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Skipped"/>| Course| MIT's [Calculus I A](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about), [B](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) & [C](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)|-|-|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|MIT's [Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)|08-Nov-2022|08-Nov-2022|
 
-
 ## Core
->This is where most of my knowledge gaps were, mainly due to lack of formal education. 
+>
+>This is where most of my knowledge gaps were, mainly due to lack of formal education.
 
 ### Algorithms
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Grokking Algorithms: An Illustrated Guide](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)|  |03-Jul-2021|10-Jul-2021|
@@ -58,6 +62,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Princeton's  [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)|[Link](homework/algorithms2)|30-Nov-2023|14-Jan-2024|
 
 ### Programming
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/dp/149207800X)|  |12-Aug-2021|20-Nov-2021|
@@ -72,17 +77,19 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|[Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)|  |||
 
 ### Systems
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt1](https://www.coursera.org/course/nand2tetris1)|[Link](homework/nand2tetris)|18-Nov-2022|16-Dec-2022|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | HUJI's [From NAND To Tetris Pt2](https://www.coursera.org/learn/nand2tetris2)|[Link](homework/nand2tetris)|16-Dec-2022|03-Jan-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| [Operating Systems: Three Easy Pieces](https://www.amazon.com/exec/obidos/ASIN/198508659X/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 || Book| [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) || ||
-|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | UWisconsin's [ Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course | UWisconsin's [Introduction to Operating Systems](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/) |[Link](homework/ostep)|13-Jan-2023|27-Jul-2023|
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |Berkeley's [Great Ideas in Computer Architecture](https://inst.eecs.berkeley.edu/~cs61c/su21/) ||03-Aug-2023|14-Aug-2023|
-|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |UMass's [ Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |[Link](homework/comp-networking)|28-Jul-2023|14-Aug-2023|
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course |UMass's [Computer Networking: ATDA](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) |[Link](homework/comp-networking)|28-Jul-2023|14-Aug-2023|
 
 ### Security
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)|  |30-Nov-2023|10-Dec-2023|
@@ -91,6 +98,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)|  |07-Jan-2024|16-Jan-2024|
 
 ### Applications
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|Stanford's [DBs: Modeling and Theory](https://www.edx.org/learn/databases/stanford-university-databases-modeling-and-theory)|  |16-Jan-2024|20-Jan-2024|
@@ -103,7 +111,9 @@ The repo is a place where I will log my learning process in an organized way, bo
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|IBM's [Introduction to Software Engineering](https://www.coursera.org/learn/introduction-to-software-engineering)|  |06-Mar-2024|08-Mar-2024|
 
 ## Advanced
+
 ### Advanced Programming
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Course|[Software Debugging](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)|  |11-Mar-2024|19-Mar-2024|
@@ -113,8 +123,8 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|UPenn's [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)|  |||
 || Course|[Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)|  |||
 
-
 ### Advanced Systems
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 || Course|MIT's [Computation Structures 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) |  |||
@@ -122,6 +132,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|MIT's [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017) |  |||
 
 ### Advanced Security
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 || Course|KULeuven's [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) |  |||
@@ -132,16 +143,21 @@ The repo is a place where I will log my learning process in an organized way, bo
 || Course|Linux Foundation's [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) |  |||
 
 ### Advanced Theory
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 || Course|Stanfords's [Game Theory](https://www.coursera.org/learn/game-theory-1) |  |||
 
-
 ## Specializations
->These are technologies with features I needed deeper understanding for work or side-projects.
->My choices were based on curated sources from experts on the field which were modern enough at the time.
+
+### Theory
+
+| Progress | Type | Item | Project(s) | Start Date | End Date |
+| :------: | :------: | ------ | :------------: | :-------: | :-------: |
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | U. of Illinois's [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) | |21-Nov-2024| |
 
 ### Languages
+
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Book| Jens Gustedt's [Modern C](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) |[Link](homework/modern-c)|04-Jan-2023|13-Jan-2023|
@@ -154,5 +170,4 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Certification | Code | Exam Date | Expiry Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/checkmark.png" width="28" title="Completed"/>| Azure | Microsoft Certified: [Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | AZ 900 |05-Jul-2024|N/A|
-
-<p align="center">[WIP]</p>
+|<img src="Resources/checkmark.png" width="28" title="Completed"/>| Azure | Microsoft Certified: [Azure Developer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/?practice-assessment-type=certification) | AZ 204 |19-Nov-2024|19-Nov-2025|
