@@ -1,7 +1,7 @@
 
 # <p align="center">Self-Taught Computer Science</p>
 
-  <p align="center"><b>Time Invested So Far: 748h</b></p>
+  <p align="center"><b>Time Invested So Far: 759h</b></p>
   
 After years practicing different aspects of IT as a hobbyist, I've committed to studying and building a proper/well-rounded curriculum by teaching myself CS in-between work and my BSc. in Mech. Eng.
 
@@ -155,6 +155,7 @@ The repo is a place where I will log my learning process in an organized way, bo
 | Progress | Type | Item | Project(s) | Start Date | End Date |
 | :------: | :------: | ------ | :------------: | :-------: | :-------: |
 |<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | U. of Illinois's [Cloud Computing Specialization](https://www.coursera.org/specializations/cloud-computing) | |21-Nov-2024| |
+|<img src="Resources/in-progress.png" width="28" title="In Progress"/>| Course | U. of Helsinki's [Fullstack Course](https://fullstackopen.com/) | |23-Nov-2024| |
 
 ### Languages
 
